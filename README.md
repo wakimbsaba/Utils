@@ -4,4 +4,4 @@
 * Makefile: Simple C++ Makefile & Cmake Examples: https://www.partow.net/programming/makefile/index.html
 * Makefile: Simple generic makefile example to start a project quickly: https://gist.github.com/natanaeljr/f0b0218dea81b0a23d5d7be205f4a252
 * Serialization C++ : A Simple Example using rapid-json: https://gotask.net/programming/serialize-and-deserialize-object-in-cpp-using-rapidjson/
-* 
+* Docker: A simple .Net Server Docker container: https://macoratti.net/21/04/docker_net51.htm
