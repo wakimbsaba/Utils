@@ -8,4 +8,7 @@
 * We API, postgres in Docker: An example to create a container with WebAPI and postgres db: https://dev.to/francescoxx/c-c-sharp-crud-rest-api-using-net-7-aspnet-entity-framework-postgres-docker-and-docker-compose-493a
 * Web API in Cloud Run: Usefull article to config right exposed app port:  https://www.linkedin.com/pulse/google-cloud-run-net-james-matson/?trk=pulse-article
 * Web API C#: A simple CRUD Example of Restfull API in .NET: https://www.macoratti.net/17/12/aspcore_crudapi1.htm
+* C++ embedded into C#: Examples of how to embed C++ into C# : https://www.codeproject.com/Articles/1189085/Passing-Strings-Between-Managed-and-Unmanaged-Code
+* C++/CLI Wrapper: C++/CLI Wrapper Example: https://www.red-gate.com/simple-talk/development/dotnet-development/creating-ccli-wrapper/
+* Use C++ codes in a C# project: Use C++ codes in a C# project : https://drthitirat.wordpress.com/2013/06/03/use-c-codes-in-a-c-project-wrapping-native-c-with-a-managed-clr-wrapper/
 * 
