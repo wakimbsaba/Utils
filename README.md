@@ -11,4 +11,4 @@
 * C++ embedded into C#: Examples of how to embed C++ into C# : https://www.codeproject.com/Articles/1189085/Passing-Strings-Between-Managed-and-Unmanaged-Code
 * C++/CLI Wrapper: C++/CLI Wrapper Example: https://www.red-gate.com/simple-talk/development/dotnet-development/creating-ccli-wrapper/
 * Use C++ codes in a C# project: Use C++ codes in a C# project : https://drthitirat.wordpress.com/2013/06/03/use-c-codes-in-a-c-project-wrapping-native-c-with-a-managed-clr-wrapper/
-* 
+* Machine Learning: C++ Implementation of PyTorch Tutorials: https://github.com/prabhuomkar/pytorch-cpp
