@@ -12,3 +12,4 @@
 * C++/CLI Wrapper: C++/CLI Wrapper Example: https://www.red-gate.com/simple-talk/development/dotnet-development/creating-ccli-wrapper/
 * Use C++ codes in a C# project: Use C++ codes in a C# project : https://drthitirat.wordpress.com/2013/06/03/use-c-codes-in-a-c-project-wrapping-native-c-with-a-managed-clr-wrapper/
 * Machine Learning: C++ Implementation of PyTorch Tutorials: https://github.com/prabhuomkar/pytorch-cpp
+* Code Editor ScintillaNET: Multlanguage code editor for winformws: https://github.com/jacobslusser/ScintillaNET/tree/master
