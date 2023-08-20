@@ -14,4 +14,4 @@
 * Machine Learning: C++ Implementation of PyTorch Tutorials: https://github.com/prabhuomkar/pytorch-cpp
 * Code Editor ScintillaNET: Multlanguage code editor for winformws: https://github.com/jacobslusser/ScintillaNET/tree/master
 * CppServer: Small and Fast C++ Web Server: https://github.com/chronoxor/CppServer
-* 
+* Postgres: Step by stpe psql5 configuration: https://www.radishlogic.com/postgresql/how-to-install-postgresql-15-on-ubuntu/
