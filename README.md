@@ -13,3 +13,5 @@
 * Use C++ codes in a C# project: Use C++ codes in a C# project : https://drthitirat.wordpress.com/2013/06/03/use-c-codes-in-a-c-project-wrapping-native-c-with-a-managed-clr-wrapper/
 * Machine Learning: C++ Implementation of PyTorch Tutorials: https://github.com/prabhuomkar/pytorch-cpp
 * Code Editor ScintillaNET: Multlanguage code editor for winformws: https://github.com/jacobslusser/ScintillaNET/tree/master
+* CppServer: Small and Fast C++ Web Server: https://github.com/chronoxor/CppServer
+* 
